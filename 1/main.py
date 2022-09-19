@@ -63,7 +63,7 @@ def perspective_main(src, dst, point_list=None):
     image perspective transform
     :param src: images
     :param Mat: PerspectiveTransform Mat
-    :param dst: sfz boxes
+    :param dst:
     :return:
     """
     img = src.copy()
